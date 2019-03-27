@@ -1,3 +1,3 @@
 # Dataproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+We apply the 15 cental calculations from the Polit course, Descriptive Economics A, on different data sets from Statistics Denmark.
