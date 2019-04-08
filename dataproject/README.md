@@ -1,3 +1,3 @@
 # Dataproject
 
-We apply the 15 cental calculations from the Polit course, Descriptive Economics A, on different data sets from Statistics Denmark.
+The first year course, Descriptive Economics A, presents 15 calculations for doing basic descriptive statistics. This project shows how to conveniently apply these calculations on selected data from Statistics Denmark to easily see the many calculation done on a short time series. We have selected six of these 15 calculations to describe the change in expenditure and income in the public sector (OFF3).
