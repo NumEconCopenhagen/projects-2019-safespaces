@@ -1,3 +1,4 @@
 # Modelproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+For this project, we utilize the baseline Solowmodel, extended with exogenous technological growth. (Whitte calls this the complete solow model)
+We extend it furthermore with human capital.
